@@ -7,14 +7,13 @@
 https://thawing-taiga-59128.herokuapp.com/
 
 ## Built With
-* Materialize
-* Node.js
+* Materialize CSS Framework
+* Node
 * Express
-* Express Handlebars
+* Handlebars
 * MySQL
 * Sequelize
 * JSON Web Tokens
-* Heroku
 
 ## Installing
 To get the project up and running on your local machine for development and testing, clone the [Gather4Good Repository](https://github.com/ninjaginja/Gather4Good.git). Run npm install on your command line. Create a MySQL database called causes_db. (Note: You will need to update the config file with your local server credentials.)
